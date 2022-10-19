@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["DbKeyPrefix",""]],"struct":[["CoinKey",""],["CoinKeyPrefix",""],["OutputFinalizationKey",""],["OutputFinalizationKeyPrefix",""],["PendingCoinsKey",""],["PendingCoinsKeyPrefix",""]]};
